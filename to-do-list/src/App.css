@@ -2,3 +2,25 @@
   text-align: center;
 }
 
+input {
+  padding: 20px;
+  margin-right: 20px;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  margin: 16px 0;
+}
+
+.delete-button {
+  font-size: 10px;
+  margin-left: 8px;
+  border: none;
+  color: antiquewhite;
+  border-radius: 4px;
+  padding: 4px;
+  padding-bottom: 4px;
+}
